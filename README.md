@@ -4,3 +4,7 @@
 
 * npm init -y
 * instalação das dependências
+* criar .env
+* criar pasta env
+* criar arquivo app
+* criar arquivo server
