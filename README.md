@@ -17,8 +17,8 @@
 ### Requisitos do sistema
 
 [x] Criar usuário
-[ ] Identificar usuário entre as requisições
-[ ] Registrar refeições, nome, descrição, data e hora, dentro da dieta sim ou não
+[x] Identificar usuário entre as requisições
+[x] Registrar refeições, nome, descrição, data e hora, dentro da dieta sim ou não
 [ ] Editar refeição
 [ ] Apagar refeição
 [ ] Listar refeições
