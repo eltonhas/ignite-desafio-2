@@ -12,7 +12,7 @@ export const usersRoutes = async (app: FastifyInstance) => {
 
     const { name, username } = createUserBodySchema.parse(request.body)
 
-    let sessionId = request.cookies.sessionId
+    let { sessionId } = request.cookies
 
     if (!sessionId) {
       sessionId = randomUUID()

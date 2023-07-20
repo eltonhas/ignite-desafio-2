@@ -19,12 +19,12 @@
 [x] Criar usuário
 [x] Identificar usuário entre as requisições
 [x] Registrar refeições, nome, descrição, data e hora, dentro da dieta sim ou não
-[ ] Editar refeição
-[ ] Apagar refeição
-[ ] Listar refeições
-[ ] Buscar uma refeição
+[x] Editar refeição
+[x] Apagar refeição
+[x] Listar refeições
+[x] Buscar uma refeição
 [ ] Total de refeições registradas
 [ ] Total de refeições na dieta
 [ ] Total de refeições fora da dieta
 [ ] Maior sequência de refeições na dieta
-[ ] O usuário só pode listar, editar e apagar as refeições que criou
+[x] O usuário só pode listar, editar e apagar as refeições que criou
