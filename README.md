@@ -23,8 +23,8 @@
 [x] Apagar refeição
 [x] Listar refeições
 [x] Buscar uma refeição
-[ ] Total de refeições registradas
-[ ] Total de refeições na dieta
-[ ] Total de refeições fora da dieta
-[ ] Maior sequência de refeições na dieta
+[x] Total de refeições registradas
+[x] Total de refeições na dieta
+[x] Total de refeições fora da dieta
+[x] Maior sequência de refeições na dieta
 [x] O usuário só pode listar, editar e apagar as refeições que criou
